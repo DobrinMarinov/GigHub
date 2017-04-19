@@ -85,7 +85,6 @@ C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\bin\Microsoft.Owin.Security
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\bin\System.Web.Http.Owin.xml
-C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.pdb
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
@@ -97,3 +96,4 @@ C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.Migrations
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.Test.resources
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.GigsUpdate.resources
 C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+C:\Users\Dobrin Marinov\Desktop\GitHub\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
